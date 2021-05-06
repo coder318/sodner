@@ -38,7 +38,7 @@ en-core-web-sm==2.1.0
 et-xmlfile==1.0.1
 flaky==3.5.3
 Flask==1.0.3
-Flask-Cors==3.0.8
+Flask-Cors==3.0.9
 ftfy==5.5.1
 fusepy==2.0.4
 future==0.17.1
